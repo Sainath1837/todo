@@ -1,0 +1,15 @@
+.List{
+  background-color: blueviolet;
+  height: 30px;
+  border-radius: 5px;
+  
+}
+.List p{
+  padding: 5px;
+  position: relative;
+}
+.List p span{
+  right: 10px;
+  position:absolute;
+  cursor: pointer;
+}
